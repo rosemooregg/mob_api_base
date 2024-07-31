@@ -27,6 +27,14 @@ The `mob_api_base` project aims to achieve the following:
 ### Prerequisites
 
 Ensure you have the following tools installed:
+- Ready API Version - https://support.smartbear.com/readyapi/docs/
+
+### Attached Docs
+
+Attached are the 2 CSV files that you can use to migrate scripts from Testrails to Zephyr
+Confluence Page -----> Provides Instructions on how you can execute migration (https://dealerware.atlassian.net/wiki/spaces/ENG/pages/483033107/Runbook+Migrating+from+Testrails+-+Zephyr)
+Circle CI Test Automate Instructions
+(https://dealerware.atlassian.net/wiki/spaces/ENG/pages/483033133/Configure+CircleCI+Build+Runs+to+Integrate+with+Zephyr+Squad)
 
 - ReadyAPI
 - Git
